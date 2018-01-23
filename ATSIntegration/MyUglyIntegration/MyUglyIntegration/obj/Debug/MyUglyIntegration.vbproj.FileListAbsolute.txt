@@ -1,0 +1,9 @@
+c:\users\mmadrigal\documents\visual studio 2012\Projects\MyUglyIntegration\MyUglyIntegration\bin\Debug\MyUglyIntegration.exe.config
+c:\users\mmadrigal\documents\visual studio 2012\Projects\MyUglyIntegration\MyUglyIntegration\obj\Debug\MyUglyIntegration.Resources.resources
+c:\users\mmadrigal\documents\visual studio 2012\Projects\MyUglyIntegration\MyUglyIntegration\obj\Debug\MyUglyIntegration.vbproj.GenerateResource.Cache
+c:\users\mmadrigal\documents\visual studio 2012\Projects\MyUglyIntegration\MyUglyIntegration\bin\Debug\MyUglyIntegration.exe
+c:\users\mmadrigal\documents\visual studio 2012\Projects\MyUglyIntegration\MyUglyIntegration\bin\Debug\MyUglyIntegration.pdb
+c:\users\mmadrigal\documents\visual studio 2012\Projects\MyUglyIntegration\MyUglyIntegration\bin\Debug\MyUglyIntegration.xml
+c:\users\mmadrigal\documents\visual studio 2012\Projects\MyUglyIntegration\MyUglyIntegration\obj\Debug\MyUglyIntegration.exe
+c:\users\mmadrigal\documents\visual studio 2012\Projects\MyUglyIntegration\MyUglyIntegration\obj\Debug\MyUglyIntegration.xml
+c:\users\mmadrigal\documents\visual studio 2012\Projects\MyUglyIntegration\MyUglyIntegration\obj\Debug\MyUglyIntegration.pdb
